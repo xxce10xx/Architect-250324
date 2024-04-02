@@ -1,2 +1,8 @@
 # Architect-250324
-Repositorio para el curso de CJAVA - Architect. Contiene algunos ejemplos básicos demostrativos
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+Repositorio para el curso de CJAVA - Architect. Contiene algunos ejemplos básicos demostrativos.
+
+
+## Índice
+- `Sesión 01`: [Fitness Functions](/fitnessFunctions/)
