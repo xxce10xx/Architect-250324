@@ -6,3 +6,5 @@ Repositorio para el curso de CJAVA - Architect. Contiene algunos ejemplos básic
 
 ## Índice
 - `Sesión 01`: [Fitness Functions](/fitnessFunctions/)
+- `Sesión 09`: [Architecture Styles](/exampleOrchestrator/)
+- `Sesión 13`: [Domain Driven Design](/exampleDDD/)
